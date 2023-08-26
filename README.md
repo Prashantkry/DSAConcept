@@ -1,1 +1,2 @@
-# DSAConcept
+**Hashing** 
+- prestoring & fetching
