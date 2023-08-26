@@ -15,5 +15,6 @@ int -> max in global it can go till -> 10⁷    if decalred arr[1e7] on top
 try to use unordered_map instead of map as it will have less time complexity 
 ```
 collision
+
 as here everything went in mapping with 8 its difficult to find a partiular no so Collison happened 
 <img width="702" alt="image" src="https://github.com/Prashantkry/DSAConcept/assets/71703153/c97157aa-8a15-4a5a-96d9-cde8e70e3b68">
